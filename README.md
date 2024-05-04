@@ -47,4 +47,5 @@ Reflecting on this project, I've learned the importance of complete planning and
 In the further projects, I first think of a proper power supply then the whole idea. because in building tricki, the late placement of battery increased the weight and reduced the performance. Also I understood that foam board is not suitable for this as it bends later after uses, so better use 3-d prints.
 
 Conclusion
-Building Tricki has been an exciting journey of exploration and discovery. Exploring the mechanism of a quadruped robot was a fascinating one! For now, I'll pause the project the resume it in the upcoming years. Never Stop Exploring!
+Building Tricki has been an exciting journey of exploration and discovery. Exploring the mechanism of a quadruped robot was a fascinating one! For now, I'll pause the project the resume it in the upcoming years. 
+Stop Exploring!
